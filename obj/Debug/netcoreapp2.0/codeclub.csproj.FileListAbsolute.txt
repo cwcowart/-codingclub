@@ -1,0 +1,11 @@
+C:\Fall20180\codeclub\obj\Debug\netcoreapp2.0\codeclub.csprojAssemblyReference.cache
+C:\Fall20180\codeclub\obj\Debug\netcoreapp2.0\codeclub.csproj.CoreCompileInputs.cache
+C:\Fall20180\codeclub\obj\Debug\netcoreapp2.0\codeclub.AssemblyInfoInputs.cache
+C:\Fall20180\codeclub\obj\Debug\netcoreapp2.0\codeclub.AssemblyInfo.cs
+C:\Fall20180\codeclub\bin\Debug\netcoreapp2.0\codeclub.deps.json
+C:\Fall20180\codeclub\bin\Debug\netcoreapp2.0\codeclub.runtimeconfig.json
+C:\Fall20180\codeclub\bin\Debug\netcoreapp2.0\codeclub.runtimeconfig.dev.json
+C:\Fall20180\codeclub\bin\Debug\netcoreapp2.0\codeclub.dll
+C:\Fall20180\codeclub\bin\Debug\netcoreapp2.0\codeclub.pdb
+C:\Fall20180\codeclub\obj\Debug\netcoreapp2.0\codeclub.dll
+C:\Fall20180\codeclub\obj\Debug\netcoreapp2.0\codeclub.pdb
